@@ -1,0 +1,6 @@
+Viewing a diff between two versions of a file is helpful because you can then you can more efficiently look at typos or differences between two files
+Easy access to the history of a file is efficient so you can see
+pros of choosing when to commit is good because you are the one in control of it. Cons are you might forget to commit every once in a while and one of the changes will be huge
+git log is so you can see your commit history and git diff is used to see if there are differences between two of your files
+Now I know that it is easy to check for errors because I know I can always go back to the previous file; if i want to see my code for a change, I would look at the two commits and use git diff
+I want to use git to find and navigate my downloads more easily
