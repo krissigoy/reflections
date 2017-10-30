@@ -1,1 +1,6 @@
 initializing a repository is useful because it allows you to see which files have changed since the last commit
+staging area is the transition of the files between the working directory and the repository. It makes it clear which files you are transferring from one to the other and bundles them for you
+in staging area you can see what/how many modifications you made and decide what you want to be in the commit
+branches can be helpful in keeping history organized because they are separated and all easily accessible; can compartmentalize your work
+diagrams help you see how commits are connected to each other and which commits are accessible by which commits
+when you want to combine changes made to one commit to another commit on the other side of the branch,
